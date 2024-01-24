@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Accueil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Allergies\AddAllergies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Allergies\AttributeAllergies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Allergies\ViewAllergies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Antecedent\AddAntecedent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Antecedent\AttributeAntecedent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Antecedent\ViewAntecedents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medecin\AddMedecin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medecin\AdminValidation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medecin\LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medicaments\AddMedicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Incompatibilite\ManageIncompatiblite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medicaments\MedicamentsDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medicaments\ViewMedicaments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ordonnances\AddOrdonnance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ordonnances\OrdonnancesDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ordonnances\ViewOrdonnances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patients\AddPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patients\PatientsDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patients\ViewPatients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
