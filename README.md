@@ -1,0 +1,1 @@
+Afin de pouvoir installer ce projet sur votre pc vous trouverez un .exe dans gsb1 il arrive parfois que windows bloque l'installation. dans ce cas la executer l'installation quand meme il n'y a aucun risque.
